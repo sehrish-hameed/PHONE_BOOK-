@@ -1,2 +1,2 @@
 # phone book System(Linked_List)
- This will store the data of the books such as name or title of that book, published date and publisher , date of issuance ,ets.
+ This will store the data of the phone record such as name or phone number, it  also  include other function like rename ,delete and display record 
